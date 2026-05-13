@@ -1,7 +1,7 @@
 id = "remix-min-darker"
 name = "Remix Min Darker"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
-authors = ["FernaandoJr"]
-description = "Remix Min Darker"
+authors = ["FernaandoJr <fernaando.divino@gmail.com>"]
+description = "Dark UI theme for Zed with a minimal, high-contrast palette."
 repository = "https://github.com/FernaandoJr/remix-min-darker-zed"
